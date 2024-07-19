@@ -58,7 +58,7 @@ body {
 
 .container {
   position: absolute;
-  top: 10vh !important;
+  top: -200vh;
   left: 0%;
   transform: translate(-0%, -10%) scale(0.2);
   width: 100vw;
@@ -69,13 +69,13 @@ body {
 
 @keyframes bounce {
   0% {
-    top: 25vh;
+    top: 15vh;
   }
   50% {
-    top: 30vh;
+    top: 20vh;
   }
   100% {
-    top: 25vh;
+    top: 15vh;
   }
 }
 
