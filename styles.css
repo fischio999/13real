@@ -8,7 +8,7 @@ body {
   position: fixed;
   top: 0;
   width: 100%;
-  height: 100vh;
+  height: 120vh;
   overflow: hidden;
   background-image:url(./images/youngthug.jpg);
   background-repeat:repeat;
@@ -218,6 +218,7 @@ body {
 @media screen and (max-width: 370px) {
   .menu-item{
     font-size: 6px;
+    
   }
 }
 
