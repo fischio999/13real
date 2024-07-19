@@ -203,3 +203,22 @@ body {
   }
 }
 
+@media screen and (max-width: 400px) {
+  .menu-item{
+    font-size: 10px;
+  }
+}
+
+@media screen and (max-width: 380px) {
+  .menu-item{
+    font-size: 8px;
+  }
+}
+
+@media screen and (max-width: 370px) {
+  .menu-item{
+    font-size: 6px;
+  }
+}
+
+
